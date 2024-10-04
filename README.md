@@ -14,7 +14,7 @@ ConnectPerMinute is a full-stack web application designed to facilitate seamless
 **Real-Time Payment:** Payment is processed automatically based on the number of minutes spent.
 
 ## Tech Stack
-**Frontend:** HTML, CSS, JavaScript
-**Backend:** Node.js
-**Database:** MySQL
+**Frontend:** HTML, CSS, JavaScript |
+**Backend:** Node.js |
+**Database:** MySQL |
 **Payment Integration:** Payment Gateway API for secure transactions
