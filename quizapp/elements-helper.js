@@ -2,7 +2,7 @@
 
 class QuizElementsHelper {
   /**
-   *
+   **
    * @param app {Element} - the element of the whole app
    * @param quizCard {Element} - the wrapper of the quiz details
    * @param questionCard {Element} - the wrapper of the questions card
